@@ -13,7 +13,7 @@ export function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           {/* Column 1: Contact / Branding */}
           <div className="sm:col-span-2 lg:col-span-1">
-            <Image src="/images/logo.png" alt="Arbeitssicherheit-MG Hoersen GmbH – Arbeitsschutz Mönchengladbach" width={130} height={36} className="h-9 w-auto" />
+            <Image src="/images/logo-amg.png" alt="Arbeitssicherheit-MG Hoersen GmbH – Arbeitsschutz Mönchengladbach" width={130} height={36} className="h-9 w-auto" />
             <p className="text-sm text-slate-400 leading-relaxed mt-4 mb-6">
               Fachkraft f&uuml;r Arbeitssicherheit in M&ouml;nchengladbach.
             </p>

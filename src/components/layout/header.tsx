@@ -42,7 +42,7 @@ export function Header() {
             {/* Logo */}
             <Link href="/" className="flex-shrink-0">
               <Image
-                src="/images/logo.png"
+                src="/images/logo-amg.png"
                 alt="Arbeitssicherheit-MG Hoersen GmbH – Arbeitsschutz Mönchengladbach"
                 width={150}
                 height={48}

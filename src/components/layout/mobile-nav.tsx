@@ -49,7 +49,7 @@ export function MobileNav({ open, onClose, pathname }: MobileNavProps) {
       >
         {/* Header with close button */}
         <div className="flex items-center justify-between px-4 h-16 border-b border-slate-200">
-          <Image src="/images/logo.png" alt="Arbeitssicherheit-MG Hoersen GmbH" width={120} height={32} className="h-8 w-auto" />
+          <Image src="/images/logo-amg.png" alt="Arbeitssicherheit-MG Hoersen GmbH" width={120} height={32} className="h-8 w-auto" />
           <button
             type="button"
             onClick={onClose}
