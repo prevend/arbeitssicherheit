@@ -17,7 +17,7 @@ const googleReviews: GoogleReview[] = [
     rating: 5,
     text: "Sehr kompetente Beratung. Hat uns geholfen, alle Prüffristen im Griff zu behalten. Sehr empfehlenswert für jeden Betrieb!",
     timeAgo: "vor 2 Wochen",
-    avatarColor: "#216CA5",
+    avatarColor: "#1B3A5C",
   },
   {
     name: "R. Schulz",
@@ -25,7 +25,7 @@ const googleReviews: GoogleReview[] = [
     rating: 5,
     text: "Schnelle Reaktion, klare Kommunikation. Die Gefährdungsbeurteilung wurde professionell und ohne großen Aufwand für uns durchgeführt.",
     timeAgo: "vor 1 Monat",
-    avatarColor: "#0D2A4A",
+    avatarColor: "#0F2240",
   },
   {
     name: "A. Krause",
@@ -33,7 +33,7 @@ const googleReviews: GoogleReview[] = [
     rating: 5,
     text: "Seit wir Arbeitssicherheit MG als externe Sifa haben, läuft alles viel strukturierter. Endlich keine Angst mehr vor der BG-Prüfung.",
     timeAgo: "vor 3 Monaten",
-    avatarColor: "#FA7901",
+    avatarColor: "#C8102E",
   },
   {
     name: "T. Berger",
@@ -41,7 +41,7 @@ const googleReviews: GoogleReview[] = [
     rating: 5,
     text: "Perfekte Unterstützung bei der DGUV-Dokumentation. Preis-Leistung stimmt absolut. Können wir nur weiterempfehlen.",
     timeAgo: "vor 4 Monaten",
-    avatarColor: "#216CA5",
+    avatarColor: "#1B3A5C",
   },
 ];
 

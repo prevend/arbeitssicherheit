@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 50" width="260" height="50">
   <g transform="translate(2, 3)">
-    <path d="M22 2L6 9v12c0 10.5 6.8 20.3 16 23 9.2-2.7 16-12.5 16-23V9L22 2z" fill="#216CA5" opacity="0.12"/>
-    <path d="M22 2L6 9v12c0 10.5 6.8 20.3 16 23 9.2-2.7 16-12.5 16-23V9L22 2z" fill="none" stroke="#216CA5" stroke-width="2.2" stroke-linejoin="round"/>
-    <path d="M14 22l5.5 5.5L30 15" fill="none" stroke="#FA7901" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 2L6 9v12c0 10.5 6.8 20.3 16 23 9.2-2.7 16-12.5 16-23V9L22 2z" fill="#C8102E" opacity="0.12"/>
+    <path d="M22 2L6 9v12c0 10.5 6.8 20.3 16 23 9.2-2.7 16-12.5 16-23V9L22 2z" fill="none" stroke="#C8102E" stroke-width="2.2" stroke-linejoin="round"/>
+    <path d="M14 22l5.5 5.5L30 15" fill="none" stroke="#1B3A5C" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <text x="52" y="23" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#216CA5" letter-spacing="-0.3">Arbeitssicherheit</text>
-  <text x="52" y="41" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#0F2D4A" letter-spacing="0.5">MG</text>
-  <rect x="52" y="44" width="22" height="2.5" rx="1.25" fill="#FA7901"/>
+  <text x="52" y="23" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1B3A5C" letter-spacing="-0.3">Arbeitssicherheit</text>
+  <text x="52" y="41" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#0F2240" letter-spacing="0.5">MG</text>
+  <rect x="52" y="44" width="22" height="2.5" rx="1.25" fill="#C8102E"/>
 </svg>

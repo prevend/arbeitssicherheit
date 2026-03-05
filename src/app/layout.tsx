@@ -68,7 +68,7 @@ export default function RootLayout({
       <body className="font-sans antialiased bg-white text-text-dark">
         <a
           href="#main"
-          className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-white focus:text-[#216CA5] focus:rounded focus:shadow-lg focus:outline-2 focus:outline-offset-2 focus:outline-[#216CA5]"
+          className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-white focus:text-[#1B3A5C] focus:rounded focus:shadow-lg focus:outline-2 focus:outline-offset-2 focus:outline-[#1B3A5C]"
         >
           Zum Hauptinhalt springen
         </a>

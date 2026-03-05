@@ -25,8 +25,8 @@ export function BackToTop() {
       aria-label="Nach oben scrollen"
       className={[
         "fixed bottom-6 right-6 z-40 w-12 h-12 rounded-full",
-        "bg-[#216CA5] text-white shadow-lg shadow-[#216CA5]/25",
-        "hover:bg-[#3784BC] hover:shadow-xl hover:shadow-[#216CA5]/30",
+        "bg-[#1B3A5C] text-white shadow-lg shadow-[#1B3A5C]/25",
+        "hover:bg-[#2A5080] hover:shadow-xl hover:shadow-[#1B3A5C]/30",
         "active:scale-95",
         "transition-all duration-300 ease-out",
         "flex items-center justify-center",

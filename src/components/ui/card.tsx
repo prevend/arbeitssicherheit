@@ -23,7 +23,7 @@ export function Card({
     <div
       className={[
         "bg-white rounded-xl border border-slate-200 shadow-[0_4px_20px_rgba(0,0,0,0.08)]",
-        hover && "hover:border-[#FA7901] card-hover",
+        hover && "hover:border-[#C8102E] card-hover",
         paddingMap[padding],
         className,
       ]
